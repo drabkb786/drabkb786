@@ -1,0 +1,38 @@
+{
+  "username": "drabkb786",
+  "name": "Abdul Basit",
+  "tagline": "Law student seeking knowledge in software engineering.",
+  "bio": "I build tools for servers, Android and everyday workflows.",
+  "focus": "Software engineering / Automation / VPS tools",
+  "education": "LL.B. student",
+  "location": "Pakistan",
+  "skills": [
+    "Python",
+    "Java",
+    "TypeScript",
+    "Linux",
+    "Git"
+  ],
+  "projects": [
+    {
+      "repo": "secure-vps-panel",
+      "name": "NOWAY VPS Control Room",
+      "description": "Manage VPS services, users and client configurations.",
+      "tags": [
+        "Python",
+        "Linux",
+        "VPS"
+      ]
+    },
+    {
+      "repo": "sensor-off",
+      "name": "Call Guard",
+      "description": "An Android call-screen utility for the OPPO A15.",
+      "tags": [
+        "Java",
+        "Android 10",
+        "Test build"
+      ]
+    }
+  ]
+}
